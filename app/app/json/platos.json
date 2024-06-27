@@ -1,0 +1,28 @@
+
+[
+        {
+          "id": 1,
+          "nombre": "Rocoto Relleno",
+          "foto": "imagenes/rocoto.jpg",
+          "ingredientes": ["rocoto", "aceituna", "huevo", "azucar", "leche", "queso", "maní tostado"]
+        },
+        {
+          "id": 2,
+          "nombre": "Tamal",
+          "foto": "imagenes/tamal.jpg",
+          "ingredientes": ["maiz mote", "cebolla", "maní", "aceite", "panceta", "manteca"]
+        },
+        {
+          "id": 3,
+          "nombre": "Ceviche",
+          "foto": "imagenes/Ceviche.png",
+          "ingredientes": ["pescado", "limón", "cebolla roja", "ají limo", "maiz", "cancha", "camote"]
+        },
+        {
+          "id": 4,
+          "nombre": "Anticuchos",
+          "foto": "imagenes/anticucho.png",
+          "ingredientes": ["carne", "ají panca", "vinagre", "comino", "ajo", "papa"]
+        }
+        
+]

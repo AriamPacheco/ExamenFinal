@@ -1,0 +1,28 @@
+
+[
+        {
+          "id": 1,
+          "nombre": "Lomo saltado",
+          "foto": "imagenes/Lomo.png",
+          "ingredientes": ["filete de res", "cebolla", "tomate", "ají amarillo", "cilantro", "papas fritas"]
+        },
+        {
+          "id": 2,
+          "nombre": "Causa",
+          "foto": "imagenes/Causa.png",
+          "ingredientes": ["papas amarillas", "ají amarillo", "limón", "aceite", "atún o pollo desmenuzado", "palta"]
+        },
+        {
+          "id": 3,
+          "nombre": "Ceviche",
+          "foto": "imagenes/Ceviche.png",
+          "ingredientes": ["pescado fresco", "limón", "cebolla roja", "ají limo", "cilantro", "maíz cancha"]
+        },
+        {
+          "id": 4,
+          "nombre": "Anticuchos",
+          "foto": "imagenes/anticucho.png",
+          "ingredientes": ["corazón de res o pollo", "ají panca", "vinagre", "comino", "ajo", "papas sancochadas"]
+        }
+        
+]
